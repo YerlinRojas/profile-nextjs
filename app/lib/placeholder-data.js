@@ -1,4 +1,4 @@
-// data file
+
 
 const projects = [
   {
@@ -22,3 +22,5 @@ const projects = [
     image: "",
   },
 ];
+
+module.exports = projects;
